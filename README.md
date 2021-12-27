@@ -1,4 +1,5 @@
 # vue-template
+vue cli 5.0 + ts + vue3
 
 ## Project setup
 ```
